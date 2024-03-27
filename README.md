@@ -31,6 +31,9 @@
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
+    <a href="" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=shell" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
