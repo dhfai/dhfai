@@ -1,19 +1,3 @@
-
-
-
-<img src="https://wallpapercave.com/wp/wp4304701.png" width="100%" height="auto"/>
-
-<h1 align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=tru&color=F76565&random=false&width=500&height=70&duration=4000&lines=Okkei%2C+Yameru+na!" />
-
-
-</h1>
-
-
-
-
-
 # Programming languages 🛠
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -30,9 +14,6 @@
   </a>
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-    <a href="" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=shell" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" />
