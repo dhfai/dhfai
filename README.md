@@ -5,7 +5,7 @@
 <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by アイ (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+dhfai(アイ)@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
@@ -19,7 +19,7 @@ Learning: Node.js, Express, PostgreSQL,
 Hobbies: Gardening, Cooking, Gaming
 Commits: 968
 Stars: 14
-Discord: RandomPotato#1377
+Discord: dhf-ai
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
