@@ -1,163 +1,102 @@
-# Programming languages 🛠
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=next" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nest" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
-</p>
-
-<br>
-
-
-# IDEs and Tools 🧰
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arch" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ubuntu" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redhat" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kali" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vim" />
-  </a>
-</p>
+###
 
 
 
-<div>
-  <h2>📊 Github Stats</h2>
-  
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhfai&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="dhfai" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhfai&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" /></p>
+<div align="center">
+  <div align="right">
+    <img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+  </div>
+  <div align="left">
+    <a href="https://www.instagram.com/dhf.ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=105841108621@student.unismuh.ac.id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dhia-dhaifullah-482ab12aa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/o.zy.1656" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://discord.com/users/dhf.ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/dhflai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/ai_yurry_kyun?t=runS50ymAKSaO8duRPxcUw&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  </div>
+  <br>
+  <div align="left">
+      <img src="https://raw.githubusercontent.com/dhfai/stats/master/profile-summary-card-output/radical/0-profile-details.svg" width="570" alt="profile-details graph"  /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhfai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/dhfai/stats/master/profile-summary-card-output/radical/3-stats.svg" height="150" alt="stats graph"  />
+       
+  <img src="https://raw.githubusercontent.com/dhfai/stats/master/profile-summary-card-output/radical/1-repos-per-language.svg"  />
+  <img src="https://raw.githubusercontent.com/dhfai/stats/master/profile-summary-card-output/radical/2-most-commit-language.svg" height="150" alt="languages graph"  />
 
-
-
-
-
-</div>
-
-<div align = "center">
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhfai&theme=algolia&theme=tokyonight&hide_border=true" alt="VikasNU1307" alt="VikasNU1307" /></p>
-
+  </div>
 </div>
 
 
-[github]: https://github.com/dhfai
+###
 
-[instagram]: https://www.instagram.com/dhf.ai/
-[linkedin]: https://www.linkedin.com/in/dhia-dhaifullah-482ab12aa/
-[twitter]: https://twitter.com/
-[facebook]: https://www.facebook.com/o.zy.1656
+<br clear="both">
 
-<a href="#" >
-<img alt="vikas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dhfai&theme=tokyo-night&hide_border=true"/>
-</a>
+<div align="center">
 
+  <img src="https://github-profile-trophy.vercel.app?username=dhfai&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  />
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhfai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dhfai&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhfai&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 
-
-
-<h2 align="center">Support system 🧢</h2>
-  <hr/>
-<div align="center" > 
-
-
-<a href="" title="">
-  <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/88/1f/a1/881fa19c8997aeda1227318bc438d4f0.jpg" alt="">
-</a>
-
-<a href="" title="">
-  <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/16/08/ae/1608aef52b0cf5d10c1999421d3a3776.jpg" alt="">
-</a>
-
-<a href="" title="">
-  <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/cc/f2/f5/ccf2f5f9725d8802d6f60016ea39783a.jpg" alt="">
-</a>
-
-<a href="" title="">
-  <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/e8/99/e4/e899e402cdac5c14a9e6209c9bac8962.jpg" alt="">
-</a>
-
-<a href="" title="">
-  <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/aa/73/2e/aa732e536936312dc5cb9a88d1598929.jpg" alt="">
-</a>
-
-<a href="" title="">
-  <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/fc/00/73/fc0073c14e9f3397ae783ca65c37b245.jpg" alt="">
-</a>
-
-<a href="" title="">
-  <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/4e/11/82/4e1182facac1766ed4d26ee892133c41.jpg" alt="">
-</a>
+<br clear="both">
 
 
+###
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JAVA](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-<br>
-<br>
-
-</div > 
+![](https://github-contributor-stats.vercel.app/api?username=ddhaifullah&limit=5&theme=radical&combine_all_yearly_contributions=true)
+###
