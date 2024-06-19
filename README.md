@@ -12,10 +12,8 @@ Shell: zsh 5.8
 Pronouns: He/Him
 Location: Makassar, IND
 Frameworks: React, Next, Nest, Tailwindcss
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
+Languages: JavaScript, TypeScript, HTML, CSS
+Learning: Node.js, Express, PostgreSQL, Three.js, CPP
 Hobbies: Gaming
 Commits: 968
 Stars: 14
