@@ -60,7 +60,7 @@ def main():
     t.gen_text("\x1b[93mGIF OS v1.0.11 (tty1)\x1b[0m", 1, count=5)
     t.gen_text("login: ", 3, count=5)
     t.toggle_show_cursor(True)
-    t.gen_typing_text("x0rzavi", 3, contin=True)
+    t.gen_typing_text("dhf.ai", 3, contin=True)
     t.gen_text("", 4, count=5)
     t.toggle_show_cursor(False)
     t.gen_text("password: ", 4, count=5)
@@ -87,16 +87,16 @@ def main():
     user_details_lines = f"""
     \x1b[30;dhfai@GitHub\x1b[0m
     --------------
-    \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, Windows 11, Android 13\x1b[0m
-    \x1b[96mHost:   \x1b[93mNetaji Subhash Engineering College \x1b[94m#NSEC\x1b[0m
+    \x1b[96mOS:     \x1b[93mArch/Redhat Linux, Windows 11, Android 13\x1b[0m
+    \x1b[96mHost:   \x1b[93mJunior Developer \x1b[94m#NSEC\x1b[0m
     \x1b[96mKernel: \x1b[93mComputer Science & Engineering \x1b[94m#CSE\x1b[0m
     \x1b[96mUptime: \x1b[93m{user_age.years} years, {user_age.months} months, {user_age.days} days\x1b[0m
     \x1b[96mIDE:    \x1b[93mneovim, VSCode\x1b[0m
     
     \x1b[30;101mContact:\x1b[0m
     --------------
-    \x1b[96mEmail:      \x1b[93mx0rzavi@gmail.com\x1b[0m
-    \x1b[96mLinkedIn:   \x1b[93mavishek-sen-x0rzavi\x1b[0m
+    \x1b[96mEmail:      \x1b[nerodayo37@gmail.com\x1b[0m
+    \x1b[96mLinkedIn:   \x1b[93dhf.ai\x1b[0m
     
     \x1b[30;101mGitHub Stats:\x1b[0m
     --------------
