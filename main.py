@@ -166,8 +166,39 @@ def main():
     <source media="(prefers-color-scheme: light)" srcset="{image.url}">
     <img alt="GIFOS" src="{image.url}">
 </picture>
+<br>
+```zsh
+> neofetch
+```
 
-<sub><i>Generated automatically using [dhfai/github-readme-terminal](https://github.com/dhfai/github-readme-terminal) on {time_now}</i></sub>
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by アイ (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+
+```csharp
+dhfai(アイ)@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Package: 4.665
+DE: Wayland
+Location: Makassar, IND
+Anime: Domekano, Oragairu
+Manga: One Piece, Horimiya
+School: University Muhammadiyah Makassar
+Hobbies: Gaming
+Experience: 2years
+Discord: dhf-ai
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
+<br>
+
+
+###
+
+<img src="https://github-profile-trophy.vercel.app?username=dhfai&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  />
+
 
 <details>
 <summary>More details</summary>
