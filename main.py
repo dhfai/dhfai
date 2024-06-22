@@ -18,7 +18,7 @@ def main():
     t.toggle_show_cursor(False)
     year_now = datetime.now(ZoneInfo("Asia/Makassar")).strftime("%Y")
     t.gen_text("GIF_OS Modular BIOS v1.0.11", 1)
-    t.gen_text(f"Copyright (C) {year_now}, \x1b[31dhfai Softwares Inc.\x1b[0m", 2)
+    t.gen_text(f"Copyright (C) {year_now}, \x1b[31mdhfai Softwares Inc.\x1b[0m", 2)
     t.gen_text("\x1b[94mGitHub Profile ReadMe Terminal, Rev 1011\x1b[0m", 4)
     t.gen_text("Krypton(tm) GIFCPU - 250Hz", 6)
     t.gen_text(
@@ -43,7 +43,7 @@ def main():
     t.gen_text("\x1b[96m", 1, count=0, contin=True)  # buffer to be removed
     t.set_font(FONT_FILE_LOGO, 66)
     # t.toggle_show_cursor(True)
-    os_logo_text = "DHF AI"
+    os_logo_text = "RUI"
     mid_row = (t.num_rows + 1) // 2
     mid_col = (t.num_cols - len(os_logo_text) + 1) // 2
     effect_lines = gifos.effects.text_scramble_effect_lines(
@@ -60,7 +60,7 @@ def main():
     t.gen_text("\x1b[93mGIF OS v1.0.11 (tty1)\x1b[0m", 1, count=5)
     t.gen_text("login: ", 3, count=5)
     t.toggle_show_cursor(True)
-    t.gen_typing_text("dhf.ai", 3, contin=True)
+    t.gen_typing_text("dhfai", 3, contin=True)
     t.gen_text("", 4, count=5)
     t.toggle_show_cursor(False)
     t.gen_text("password: ", 4, count=5)
@@ -81,13 +81,13 @@ def main():
 
     ignore_repos = ["archiso-zfs", "archiso-zfs-archive"]
     git_user_details = gifos.utils.fetch_github_stats("dhfai", ignore_repos)
-    user_age = gifos.utils.calc_age(26, 7, 2002)
+    user_age = gifos.utils.calc_age(17, 12, 2002)
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
     user_details_lines = f"""
-    \x1b[30;dhfai@GitHub\x1b[0m
+    \x1b[30;101mdhfai@GitHub\x1b[0m
     --------------
-    \x1b[96mOS:     \x1b[93mArch/Redhat Linux, Windows 11, Android 13\x1b[0m
+    \x1b[96mOS:     \x1b[93mArch/Ret Hat, Linux, Windows 11, Android 13\x1b[0m
     \x1b[96mHost:   \x1b[93mJunior Developer \x1b[94m#NSEC\x1b[0m
     \x1b[96mKernel: \x1b[93mComputer Science & Engineering \x1b[94m#CSE\x1b[0m
     \x1b[96mUptime: \x1b[93m{user_age.years} years, {user_age.months} months, {user_age.days} days\x1b[0m
@@ -95,8 +95,8 @@ def main():
     
     \x1b[30;101mContact:\x1b[0m
     --------------
-    \x1b[96mEmail:      \x1b[93nerodayo37@gmail.com\x1b[0m
-    \x1b[96mLinkedIn:   \x1b[93dhf.ai\x1b[0m
+    \x1b[96mEmail:      \x1b[93mdhfai@gmail.com\x1b[0m
+    \x1b[96mLinkedIn:   \x1b[93mdhf-ai\x1b[0m
     
     \x1b[30;101mGitHub Stats:\x1b[0m
     --------------
@@ -147,7 +147,7 @@ def main():
 
     t.set_font(FONT_FILE_BITMAP)
     t.toggle_show_cursor(True)
-    # t.pasteImage("./temp/x0rzavi.jpg", 3, 5, sizeMulti=0.5)
+    # t.pasteImage("./temp/dhfai.jpg", 3, 5, sizeMulti=0.5)
     t.gen_text(user_details_lines, 2, 35, count=5, contin=True)
     t.gen_prompt(t.curr_row)
     t.gen_typing_text(
@@ -166,7 +166,7 @@ def main():
     <source media="(prefers-color-scheme: light)" srcset="{image.url}">
     <img alt="GIFOS" src="{image.url}">
 </picture>
-<br>
+
 ```zsh
 > neofetch
 ```
@@ -195,10 +195,7 @@ Discord: dhf-ai
 <br>
 
 
-###
-
 <img src="https://github-profile-trophy.vercel.app?username=dhfai&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  />
-
 </div>
 
 <!-- Image deletion URL: {image.delete_url} -->"""
