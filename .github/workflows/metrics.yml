@@ -1,6 +1,6 @@
 # Licensed under The Unlicense
 # Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
-# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+# See https://github.com/dhfai/metrics {fork} documentation about how to use metrics action
 
 name: Metrics
 on:
@@ -15,7 +15,7 @@ jobs:
 
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
-        uses: dhfai/metrics@latest
+        uses: dhfai/metrics@{fork}
         with:
           filename: medias.svg
           token: ${{ secrets.TOKEN }}
@@ -34,7 +34,7 @@ jobs:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: dhfai/metrics@latest
+        uses: dhfai/metrics@{fork}
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
@@ -47,7 +47,7 @@ jobs:
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: dhfai/metrics@{fork}
         with:
           filename: sponsors.svg
           token: ${{ secrets.TOKEN }}
@@ -61,7 +61,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: dhfai/metrics@latest
+        uses: dhfai/metrics@{fork}
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
@@ -84,7 +84,7 @@ jobs:
           plugin_discussions: yes
           
       - name: 🦑 Splatoon
-        uses: dhfai/metrics@latest
+        uses: dhfai/metrics@{fork}
         if: ${{ success() || failure() }}
         with:
           filename: splatoon.svg
