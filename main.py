@@ -18,7 +18,7 @@ def main():
     t.toggle_show_cursor(False)
     year_now = datetime.now(ZoneInfo("Asia/Makassar")).strftime("%Y")
     t.gen_text("GIF_OS Modular BIOS v1.0.11", 1)
-    t.gen_text(f"Copyright (C) {year_now}, \x1b[31mX0rzAvi Softwares Inc.\x1b[0m", 2)
+    t.gen_text(f"Copyright (C) {year_now}, \x1b[31dhfai Softwares Inc.\x1b[0m", 2)
     t.gen_text("\x1b[94mGitHub Profile ReadMe Terminal, Rev 1011\x1b[0m", 4)
     t.gen_text("Krypton(tm) GIFCPU - 250Hz", 6)
     t.gen_text(
@@ -43,7 +43,7 @@ def main():
     t.gen_text("\x1b[96m", 1, count=0, contin=True)  # buffer to be removed
     t.set_font(FONT_FILE_LOGO, 66)
     # t.toggle_show_cursor(True)
-    os_logo_text = "GIF OS"
+    os_logo_text = "DHF AI"
     mid_row = (t.num_rows + 1) // 2
     mid_col = (t.num_cols - len(os_logo_text) + 1) // 2
     effect_lines = gifos.effects.text_scramble_effect_lines(
@@ -115,7 +115,7 @@ def main():
     t.gen_typing_text("\x1b[91mfetch.s", 1, contin=True)
     t.delete_row(1, prompt_col)
     t.gen_text("\x1b[92mfetch.sh\x1b[0m", 1, contin=True)
-    t.gen_typing_text(" -u x0rzavi", 1, contin=True)
+    t.gen_typing_text(" -u dhfai", 1, contin=True)
 
     t.set_font(FONT_FILE_MONA, 16, 0)
     t.toggle_show_cursor(False)
