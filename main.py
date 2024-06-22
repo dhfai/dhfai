@@ -16,7 +16,7 @@ def main():
 
     t.gen_text("", 1, count=20)
     t.toggle_show_cursor(False)
-    year_now = datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y")
+    year_now = datetime.now(ZoneInfo("Asia/Makassar")).strftime("%Y")
     t.gen_text("GIF_OS Modular BIOS v1.0.11", 1)
     t.gen_text(f"Copyright (C) {year_now}, \x1b[31mX0rzAvi Softwares Inc.\x1b[0m", 2)
     t.gen_text("\x1b[94mGitHub Profile ReadMe Terminal, Rev 1011\x1b[0m", 4)
@@ -67,7 +67,7 @@ def main():
     t.toggle_show_cursor(True)
     t.gen_typing_text("*********", 4, contin=True)
     t.toggle_show_cursor(False)
-    time_now = datetime.now(ZoneInfo("Asia/Kolkata")).strftime(
+    time_now = datetime.now(ZoneInfo("Asia/Makassar")).strftime(
         "%a %b %d %I:%M:%S %p %Z %Y"
     )
     t.gen_text(f"Last login: {time_now} on tty1", 6)
@@ -80,12 +80,12 @@ def main():
     t.gen_text("\x1b[92mclear\x1b[0m", 7, count=3, contin=True)
 
     ignore_repos = ["archiso-zfs", "archiso-zfs-archive"]
-    git_user_details = gifos.utils.fetch_github_stats("x0rzavi", ignore_repos)
+    git_user_details = gifos.utils.fetch_github_stats("dhfai", ignore_repos)
     user_age = gifos.utils.calc_age(26, 7, 2002)
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
     user_details_lines = f"""
-    \x1b[30;101mx0rzavi@GitHub\x1b[0m
+    \x1b[30;dhfai@GitHub\x1b[0m
     --------------
     \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, Windows 11, Android 13\x1b[0m
     \x1b[96mHost:   \x1b[93mNetaji Subhash Engineering College \x1b[94m#NSEC\x1b[0m
@@ -167,7 +167,7 @@ def main():
     <img alt="GIFOS" src="{image.url}">
 </picture>
 
-<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on {time_now}</i></sub>
+<sub><i>Generated automatically using [dhfai/github-readme-terminal](https://github.com/dhfai/github-readme-terminal) on {time_now}</i></sub>
 
 <details>
 <summary>More details</summary>
