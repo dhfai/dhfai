@@ -199,11 +199,6 @@ Discord: dhf-ai
 
 <img src="https://github-profile-trophy.vercel.app?username=dhfai&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  />
 
-
-<details>
-<summary>More details</summary>
-
-</details>
 </div>
 
 <!-- Image deletion URL: {image.delete_url} -->"""
