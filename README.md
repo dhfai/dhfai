@@ -9,6 +9,8 @@ dhfai(アイ)@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
+Package: 4.665
+DE: Wayland
 Location: Makassar, IND
 Anime: Domekano, Oragairu
 Manga: One Piece, Horimiya
@@ -34,7 +36,7 @@ Discord: dhf-ai
 
 <div align="center">
   <div align="right">
-    <img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+    <img align="right" height="250" src="https://i.redd.it/h7dae4o0uk461.jpg"  />
   </div>
   <div align="left">
     <a href="https://www.instagram.com/dhf.ai/" target="_blank">
