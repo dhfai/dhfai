@@ -1,8 +1,8 @@
 <div align="justify">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/Tt228HG/output-gif.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/Tt228HG/output-gif.gif">
-    <img alt="GIFOS" src="https://i.ibb.co/Tt228HG/output-gif.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/xXmMqjQ/output-gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/xXmMqjQ/output-gif.gif">
+    <img alt="GIFOS" src="https://i.ibb.co/xXmMqjQ/output-gif.gif">
 </picture>
 
 ```zsh
@@ -36,4 +36,4 @@ Discord: dhf-ai
 <img src="https://github-profile-trophy.vercel.app?username=dhfai&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  />
 </div>
 
-<!-- Image deletion URL: https://ibb.co/jDffMLY/132a6e53c7e792bf117415b825753234 -->
+<!-- Image deletion URL: https://ibb.co/S5QKwnp/d114d764bdcca5830c08bad7be8d0031 -->
