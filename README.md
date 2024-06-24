@@ -20,4 +20,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhfai&theme=dark&theme=transparent&border=A7A459&ring=A7A459&fire=A7A459&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=A7A459) ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhfai&hide=css,html,tex&title_color=ffffff&layout=compact&text_color=c9cacc&icon_color=2bbc8a&theme=transparent&border_color=A7A459&langs_count=10)
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=22160920)
+
+
+[![](https://visitcount.itsvg.in/api?id=dhfai&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 </div>
