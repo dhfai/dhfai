@@ -13,4 +13,11 @@
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
 </pre>
+
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=dhfai&show=reviews,issues_closed,discussions_started,discussions_answered&theme=transparent&show_icons=true&count_private=true&border_color=A7A459&text_color=9f9f9f&icon_color=A7A459&title_color=9f9f9f&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dhfai&theme=dark&theme=transparent&border=A7A459&ring=A7A459&fire=A7A459&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=A7A459)
+
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=22160920)
 </div>
