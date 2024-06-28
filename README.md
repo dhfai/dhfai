@@ -21,7 +21,7 @@
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=22160920)
 
-
+<!--
 [![](https://visitcount.itsvg.in/api?id=dhfai&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
-
+-->
 </div>
